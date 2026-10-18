@@ -1,0 +1,16 @@
+AMR AUTOMOTRIZ - Sistema de gestión
+
+USO RAPIDO EN EL COMPUTADOR (sin internet)
+1. Descomprime esta carpeta.
+2. Haz doble clic en index.html (se abre en tu navegador).
+3. Crea un acceso directo en el escritorio.
+
+INSTALAR COMO APP (celular y computador)
+1. Entra a https://app.netlify.com/drop  y arrastra la carpeta AMR-Automotriz completa.
+2. Crea una cuenta gratis para que el sitio quede permanente.
+3. Abre el link que te entrega en tu celular o computador:
+   - Android/Chrome: menú (3 puntos) > Instalar app.
+   - iPhone/Safari: Compartir > Agregar a pantalla de inicio.
+   - Computador (Chrome/Edge): ícono de instalar en la barra de direcciones.
+
+IMPORTANTE: los datos se guardan en cada dispositivo. Usa Ajustes > Respaldo para copiar y restaurar tus datos.
